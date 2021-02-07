@@ -6,6 +6,6 @@
 - CSS
 - JS
 - Bootstrap
-- jquery
+- jQuery
 - Fancybox
 - Swiper Slider JS
