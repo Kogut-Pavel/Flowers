@@ -106,7 +106,7 @@ body {
 }
 
 .slide-image {
-  background-image: url("/img/flowers-images/bg-flowers.png");
+  background-image: url("../img/flowers-images/bg-flowers.png");
   background-position: left;
   background-repeat: no-repeat;
   padding: 10px;
@@ -372,7 +372,7 @@ body {
   content: "";
   width: 10px;
   height: 4px;
-  background: url("/img/caret.svg") no-repeat center;
+  background: url("../img/caret.svg") no-repeat center;
   display: inline-block;
   margin-left: 14px;
   vertical-align: middle;
